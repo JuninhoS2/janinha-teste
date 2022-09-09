@@ -1,0 +1,32 @@
+* {
+    font-family: cursive;
+
+}
+
+body{
+
+background-color: black;
+
+}
+
+h1 {
+    color: white ;
+
+}
+
+p {
+    font-size: 20px;
+    color: blue;
+}
+
+h2 {
+    font-size: 20px;
+    color: blue;
+
+}
+
+img{
+
+    width: 800px;
+    height: 600px;
+}
