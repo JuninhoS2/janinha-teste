@@ -16,7 +16,7 @@ h1 {
 
 p {
     font-size: 20px;
-    color: blue;
+    color: lightblue;
 }
 
 h2 {
@@ -27,6 +27,6 @@ h2 {
 
 img{
 
-    width: 800px;
+    width: 900px;
     height: 600px;
 }
